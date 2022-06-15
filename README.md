@@ -1,6 +1,8 @@
+## Bem Vindo ao Meu Perfil !
+
 <div>
-  <a href="https://github.com/Omarques-Henrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omarques Henrique &show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/Omarques-Henrique">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omarques-Henrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarques-Henrique&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
@@ -11,15 +13,12 @@
  
  <br>
  
-  ### Minhas outras redes de contato !
+  ### Minhas outras redes para contato !
  
 <div> 
-  <a " target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
   <a href="https://www.linkedin.com/in/omarques-henrique-487700213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Omarques-Henrique/Omarques-Henrique/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
